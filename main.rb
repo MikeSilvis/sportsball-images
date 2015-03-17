@@ -7,6 +7,7 @@ Dragonfly.app.configure do
   plugin :imagemagick
 end
 
+# TODO: Put you in a gem
 class QueryBase
   ASSET_STRINGS = [
     'ASSET_STRING_1',
