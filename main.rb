@@ -27,6 +27,6 @@ end
 
 get '/*' do |path|
   size = params[:size] ? params[:size] : '70x70'
-  updated_path = QueryBase.decode_path(path)
+  updated_path = QueryBase.decode_path(path.gsub(/.png/, ''))
   Dragonfly.app.fetch_url("https://s3.amazonaws.com/jumbotron/#{updated_path}.png").thumb(size).to_response(env)
 end
