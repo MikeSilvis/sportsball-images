@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mikesilvis/sportsball-assets.git
-  revision: a833c77984dbc3ebaf6a7dd60ff2d84a9bac0c12
+  revision: c2563a7c36d0eebff0fec20f2a727215c2cfe3f9
   specs:
     sportsball-assets (0.0.1)
 
