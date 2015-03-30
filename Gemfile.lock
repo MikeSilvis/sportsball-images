@@ -1,29 +1,33 @@
+GIT
+  remote: git://github.com/mikesilvis/sportsball-assets.git
+  revision: a833c77984dbc3ebaf6a7dd60ff2d84a9bac0c12
+  specs:
+    sportsball-assets (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.7)
+    addressable (2.3.8)
     backports (3.6.4)
-    byebug (4.0.1)
+    byebug (4.0.4)
       columnize (= 0.9.0)
-      rb-readline (= 0.5.2)
     columnize (0.9.0)
     dragonfly (1.0.7)
       addressable (~> 2.3)
       multi_json (~> 1.0)
       rack
     multi_json (1.11.0)
-    puma (2.11.0)
+    puma (2.11.1)
       rack (>= 1.1, < 2.0)
     rack (1.6.0)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rb-readline (0.5.2)
-    sinatra (1.4.5)
+    sinatra (1.4.6)
       rack (~> 1.4)
       rack-protection (~> 1.4)
-      tilt (~> 1.3, >= 1.3.4)
+      tilt (>= 1.3, < 3)
     sinatra-contrib (1.4.2)
       backports (>= 2.0)
       multi_json
@@ -42,3 +46,4 @@ DEPENDENCIES
   puma
   sinatra
   sinatra-contrib
+  sportsball-assets!

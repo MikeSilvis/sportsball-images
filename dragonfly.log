@@ -1,23 +1,9 @@
-# Logfile created on 2015-03-17 14:30:38 -0700 by logger.rb/44203
-W, [2015-03-17T14:30:38.706294 #28640]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T14:30:38.706632 #28640]  INFO -- : DRAGONFLY: GET /nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-W, [2015-03-17T14:31:52.321566 #28925]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T14:31:52.321795 #28925]  INFO -- : DRAGONFLY: GET /nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-D, [2015-03-17T14:33:10.581891 #29080] DEBUG -- : DRAGONFLY: shell command: 'convert' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150317-29080-1m3l7fv' '-resize' '70x70' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150317-29080-1n3icvt.png'
-I, [2015-03-17T14:33:10.635245 #29080]  INFO -- : DRAGONFLY: GET /nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 200
-W, [2015-03-17T15:18:01.065794 #29081]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:18:01.066754 #29081]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-W, [2015-03-17T15:18:01.197189 #29081]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:18:01.197347 #29081]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-W, [2015-03-17T15:19:00.983505 #35233]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:19:00.983768 #35233]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-W, [2015-03-17T15:19:01.522830 #35233]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:19:01.523021 #35233]  INFO -- : DRAGONFLY: GET /favicon.ico 500
-W, [2015-03-17T15:19:38.873258 #35366]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:19:38.873526 #35366]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-W, [2015-03-17T15:19:47.720713 #35384]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:19:47.720938 #35384]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-W, [2015-03-17T15:19:50.791043 #35384]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
-I, [2015-03-17T15:19:50.791188 #35384]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 500
-D, [2015-03-17T15:20:22.012251 #35575] DEBUG -- : DRAGONFLY: shell command: 'convert' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150317-35575-1dyqt4h' '-resize' '70x70' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150317-35575-1gu43pl.png'
-I, [2015-03-17T15:20:22.068964 #35575]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 200
+# Logfile created on 2015-03-29 17:11:35 -0700 by logger.rb/44203
+W, [2015-03-29T17:11:35.817092 #67318]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-03-29T17:11:35.817282 #67318]  INFO -- : DRAGONFLY: GET /not_found 500
+D, [2015-03-29T17:12:17.920257 #67426] DEBUG -- : DRAGONFLY: shell command: 'convert' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150329-67426-ilhh9p' '-resize' '70x70' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150329-67426-mwmsrh.png'
+I, [2015-03-29T17:12:18.014719 #67426]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 200
+D, [2015-03-29T17:12:18.350074 #67426] DEBUG -- : DRAGONFLY: shell command: 'convert' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150329-67426-q2mtr6' '-resize' '70x70' '/var/folders/tm/y2fs66gn1qjc0s29px3p8lt80000gn/T/dragonfly20150329-67426-106uclm.png'
+I, [2015-03-29T17:12:18.398000 #67426]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 200
+W, [2015-03-29T17:12:18.631739 #67425]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-03-29T17:12:18.631931 #67425]  INFO -- : DRAGONFLY: GET /favicon.ico 500
