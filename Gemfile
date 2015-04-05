@@ -8,4 +8,4 @@ gem 'puma'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'sportsball-assets', github: 'mikesilvis/sportsball-assets'
-
+gem 'newrelic_rpm'
