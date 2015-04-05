@@ -10,6 +10,6 @@ end
 
 get '/*' do |path|
   size = params[:size] ? params[:size] : '70x70'
-  updated_path = Sportsball::Assets.decode_path(path.gsub(/.png/, '')).gsub('images/', '')
+  updated_path = Sportsball::Assets.decode_path(path.gsub(/.png/, '')).gsub('images/', '').downcase
   Dragonfly.app.fetch_url("https://s3.amazonaws.com/jumbotron/#{updated_path}.png").thumb(size).to_response(env)
 end
