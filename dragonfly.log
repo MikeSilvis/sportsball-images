@@ -7,3 +7,27 @@ D, [2015-03-29T17:12:18.350074 #67426] DEBUG -- : DRAGONFLY: shell command: 'con
 I, [2015-03-29T17:12:18.398000 #67426]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/ana-2301bbd89241613facdd9163caa25913.png 200
 W, [2015-03-29T17:12:18.631739 #67425]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
 I, [2015-03-29T17:12:18.631931 #67425]  INFO -- : DRAGONFLY: GET /favicon.ico 500
+W, [2015-04-05T16:02:04.876444 #35323]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T16:02:04.876873 #35323]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T16:02:31.818953 #35467]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T16:02:31.819393 #35467]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T16:03:30.946073 #35468]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T16:03:30.946469 #35468]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T23:28:15.210426 #35612]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:28:15.210797 #35612]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T23:28:15.450894 #35612]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:28:15.451525 #35612]  INFO -- : DRAGONFLY: GET /__sinatra__/500.png 500
+W, [2015-04-05T23:29:54.105590 #35797]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:29:54.105840 #35797]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T23:31:34.088476 #35821]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:31:34.088854 #35821]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T23:31:34.321243 #35821]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:31:34.321522 #35821]  INFO -- : DRAGONFLY: GET /__sinatra__/500.png 500
+W, [2015-04-05T23:31:43.673058 #35821]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:31:43.673299 #35821]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T23:32:43.573820 #35821]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:32:43.574020 #35821]  INFO -- : DRAGONFLY: GET /images/nh/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+W, [2015-04-05T23:32:43.850004 #35820]  WARN -- : DRAGONFLY: caught error - Dragonfly::Job::FetchUrl::ErrorResponse
+I, [2015-04-05T23:32:43.850168 #35820]  INFO -- : DRAGONFLY: GET /images/nhl/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 500
+D, [2015-04-05T23:32:51.055456 #35820] DEBUG -- : DRAGONFLY: shell command: 'convert' '/var/folders/s2/lngdp35n1nv0fm3dzs2zvnj00000gn/T/dragonfly20150405-35820-ow1lwj' '-resize' '70x70' '/var/folders/s2/lngdp35n1nv0fm3dzs2zvnj00000gn/T/dragonfly20150405-35820-1sq4ebj.png'
+I, [2015-04-05T23:32:51.132479 #35820]  INFO -- : DRAGONFLY: GET /images/nhl-teams/blurred-headers/pit-4a300454eb6cb28eddd86238c0744f3e.png 200
