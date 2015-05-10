@@ -12,7 +12,7 @@ GEM
     byebug (4.0.5)
       columnize (= 0.9.0)
     columnize (0.9.0)
-    dragonfly (1.0.7)
+    dragonfly (1.0.9)
       addressable (~> 2.3)
       multi_json (~> 1.0)
       rack
@@ -20,10 +20,10 @@ GEM
       multipart-post (>= 1.2, < 3)
     multi_json (1.11.0)
     multipart-post (2.0.0)
-    newrelic_rpm (3.11.2.286)
+    newrelic_rpm (3.12.0.288)
     puma (2.11.2)
       rack (>= 1.1, < 2.0)
-    rack (1.6.0)
+    rack (1.6.1)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
